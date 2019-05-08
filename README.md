@@ -1,0 +1,10 @@
+## APLICACIÓN DEL CLIMA - CURSO NODE
+
+RECUERDEN EJECUTAR ``NPM INSTALLL`` PARA LAS LIBRERÍAS
+
+###EJEMPLO:
+
+```
+node app -d "San Jose Costa Rica" 
+
+```
